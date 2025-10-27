@@ -6,4 +6,4 @@ Easy Input: Enter Nitrogen (N), Phosphorus (P), and Potassium (K) values through
 
 Instant Recommendation: Get quick fertilizer suggestions tailored to soil nutrient values.
 
-Simple UI: Clean, responsive interface for fast interaction on any devic
+Simple UI: Clean, responsive interface for fast interaction on any device.
